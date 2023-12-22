@@ -1,4 +1,5 @@
-
 # config.py
 # Proje yapılandırma değerleri
-# (örneğin, çaprazlama olasılığı, mutasyon oranı, vb.)
+population_size = 100
+board_size = 8
+generations = 1000
