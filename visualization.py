@@ -1,11 +1,9 @@
-
 # visualization.py
 import cv2
 import numpy as np
 
-def visualize_board(solution):
-    # Tahtayı OpenCV ile görselleştir
-    # (Bu işlev için OpenCV kütüphanesinin yüklü olması gerekir)
+def create_colored_board(solution):
+    # OpenCV ile renkli tahta oluştur
     pass
 
-# Diğer vezir problemi fonksiyonları da eklenebilir.
+# Diğer görselleştirme fonksiyonları da eklenebilir.
