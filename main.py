@@ -2,6 +2,9 @@
 # main.py
 from genetic_algorithm import initialize_population, fitness
 from n_queens_problem import visualize_board
+from config import population_size, board_size, generations
+from visualization import create_colored_board 
+
 
 def genetic_algorithm_solver(population_size, board_size, generations):
     # Genetik algoritma çözümü
