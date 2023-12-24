@@ -30,3 +30,5 @@ Bu komut, genetik algoritmanın çalıştırılmasını sağlar ve çözümü ek
 Projeyi çalıştırdığınızda, genetik algoritma N Vezir Problemi'ni çözmeye çalışacaktır. Algoritma çalıştığında, her jenerasyonda en iyi çözümü ve çakışma olup olmadığını görebilirsiniz.
 
 
+
+
